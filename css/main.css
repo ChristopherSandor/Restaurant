@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.center {
+  width: 1000px;
+  margin-top: 50px;
+}
+
+.middle {
+  width: 500px;
+}
+body {
+  background-color: #d0e8ff;
+}
